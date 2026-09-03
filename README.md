@@ -1,1 +1,1 @@
-# my-tkinter-app
+lucky-calculator
